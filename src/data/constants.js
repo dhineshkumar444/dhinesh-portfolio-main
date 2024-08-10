@@ -192,8 +192,8 @@ export const projects = [
       "React",
     ],
     category: "web app",
-    github: "https://github.com/ShivaShankarGoddumarri/Shiva_Shankar_Portfolio.git",
-    webapp: "https://shiva-shankar-portfolio.vercel.app/",
+    github: "https://github.com/dhineshkumar444/dhinesh-portfolio",
+    webapp: "https://portfolio-ej8i5jegs-dhineshkumar444s-projects.vercel.app/https://portfolio-ej8i5jegs-dhineshkumar444s-projects.vercel.app/",
   },
 
   {
@@ -235,7 +235,7 @@ export const projects = [
     ],
     category: "web app",
     github: "",
-    webapp: "https://www.beyinc.org/",
+    webapp: "",
   },
 
   // {
