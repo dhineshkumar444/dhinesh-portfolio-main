@@ -234,7 +234,7 @@ export const projects = [
       
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/dhineshkumar444/tasty-toast",
     webapp: "",
   },
 
