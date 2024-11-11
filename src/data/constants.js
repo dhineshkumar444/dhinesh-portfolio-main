@@ -39,17 +39,6 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
-  
-      {
-        name: "C#",
-        image:
-          "https://tse4.mm.bing.net/th?id=OIP.Z1kI0lXdOBTGUPAUfkPBkQHaHa&pid=Api&P=0&h=180",
-      },
-      {
-        name: ".NET Core",
-        image:
-          "https://tse2.mm.bing.net/th?id=OIP.2jOYMim7RdeyGWJXu4dU2wHaHa&pid=Api&P=0&h=180",
-      },
       {
         name: "Redux",
         image:
@@ -71,6 +60,16 @@ export const skills = [
         name: "GitHub",
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      },
+      {
+        name: "Java",
+        image:
+          "https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png",
+      },
+      {
+        name: "MySQL",
+        image:
+          "https://pngimg.com/uploads/mysql/mysql_PNG23.png",
       },
       
     ],
@@ -144,8 +143,6 @@ export const experiences = [
       "Redux",
       "Git",
       "GitHub",
-      "C#",
-      ".Net Core(MVC)",
       "SQL"
     ],
   }
